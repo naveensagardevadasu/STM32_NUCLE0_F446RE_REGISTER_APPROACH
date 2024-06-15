@@ -20,8 +20,8 @@ Setp 3: Once everything is done open the IDE.<br/>
 Step 1: select "Strat new STM32 project" from the home page or go to File -> New -> STM32 Project. This will take some time validate all the information to open the Target Selector.
 <br/>
 
-![alt text](</Docs/Start_new_proj.png>)             (a)
-![alt text](</Docs/Start_new_proj_b.png>)           (b)<br/><br/>
+![alt text](</Docs/Start_new_proj.png>)             &emsp;(a)
+![alt text](</Docs/Start_new_proj_b.png>)           &emsp;(b)<br/><br/>
 
 Step 2: On selector Window select  "Board Selector". under the Board selector search for "NUCLEO-F446RE" in "Commercial Part Number" search field.<br/>
 
