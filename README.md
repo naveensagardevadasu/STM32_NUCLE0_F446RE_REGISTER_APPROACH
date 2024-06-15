@@ -11,4 +11,4 @@ Step 2: While Installing the Software allow the drivers binaries if prompoted.
 Setp 3: Once everything is done open the IDE.
 
 
-![alt text](<Docs/STM32 CUBEIDE.pngSTM32 CUBEIDE.png>)
+![alt text](</Docs/STM32 CUBEIDE.png>)
