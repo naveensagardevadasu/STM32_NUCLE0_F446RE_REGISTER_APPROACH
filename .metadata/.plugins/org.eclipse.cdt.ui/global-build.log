@@ -1,0 +1,31 @@
+22:11:08 **** Incremental Build of configuration Debug for project UART_TRANSMITTER_POLLING ****
+make -j7 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=hard -mthumb -o "Src/main.o"
+../Src/main.c:27:4: warning: #warning "FPU is not initialized, but the project is compiling for an FPU. Please initialize the FPU before use." [-Wcpp]
+   27 |   #warning "FPU is not initialized, but the project is compiling for an FPU. Please initialize the FPU before use."
+      |    ^~~~~~~
+arm-none-eabi-gcc -o "UART_TRANSMITTER_POLLING.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/UART_TRANSMITTER_POLLING/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="UART_TRANSMITTER_POLLING.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: UART_TRANSMITTER_POLLING.elf
+ 
+arm-none-eabi-size  UART_TRANSMITTER_POLLING.elf 
+arm-none-eabi-objdump -h -S UART_TRANSMITTER_POLLING.elf  > "UART_TRANSMITTER_POLLING.list"
+   text	   data	    bss	    dec	    hex	filename
+   1432	      0	   1568	   3000	    bb8	UART_TRANSMITTER_POLLING.elf
+Finished building: default.size.stdout
+ 
+Finished building: UART_TRANSMITTER_POLLING.list
+ 
+22:11:26 **** Incremental Build of configuration Debug for project UART_TRANSMITTER_POLLING ****
+make -j7 all 
+arm-none-eabi-size  UART_TRANSMITTER_POLLING.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1432	      0	   1568	   3000	    bb8	UART_TRANSMITTER_POLLING.elf
+Finished building: default.size.stdout
+ 
+22:13:09 **** Incremental Build of configuration Debug for project UART_TRANSMITTER_POLLING ****
+make -j7 all 
+arm-none-eabi-size  UART_TRANSMITTER_POLLING.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1432	      0	   1568	   3000	    bb8	UART_TRANSMITTER_POLLING.elf
+Finished building: default.size.stdout
+ 
