@@ -1,10 +1,17 @@
-16:43:26 **** Incremental Build of configuration Debug for project UART_TRANSMITTER_ISR ****
+23:14:08 **** Incremental Build of configuration Debug for project UART_TRANSMITTER_ISR ****
 make -j7 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
+arm-none-eabi-gcc -o "UART_TRANSMITTER_ISR.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/UART_TRANSMITTER_ISR/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="UART_TRANSMITTER_ISR.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: UART_TRANSMITTER_ISR.elf
+ 
 arm-none-eabi-size  UART_TRANSMITTER_ISR.elf 
+arm-none-eabi-objdump -h -S UART_TRANSMITTER_ISR.elf  > "UART_TRANSMITTER_ISR.list"
    text	   data	    bss	    dec	    hex	filename
-   1408	      0	   1576	   2984	    ba8	UART_TRANSMITTER_ISR.elf
+   1396	      0	   1576	   2972	    b9c	UART_TRANSMITTER_ISR.elf
 Finished building: default.size.stdout
  
+Finished building: UART_TRANSMITTER_ISR.list
+ 
 
-16:43:26 Build Finished. 0 errors, 0 warnings. (took 197ms)
+23:14:09 Build Finished. 0 errors, 0 warnings. (took 522ms)
 

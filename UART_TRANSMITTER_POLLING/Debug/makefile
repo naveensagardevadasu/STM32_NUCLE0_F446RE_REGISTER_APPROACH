@@ -60,7 +60,7 @@ main-build: UART_TRANSMITTER_POLLING.elf secondary-outputs
 
 # Tool invocations
 UART_TRANSMITTER_POLLING.elf UART_TRANSMITTER_POLLING.map: $(OBJS) $(USER_OBJS) /Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/UART_TRANSMITTER_POLLING/STM32F446RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "UART_TRANSMITTER_POLLING.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/UART_TRANSMITTER_POLLING/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="UART_TRANSMITTER_POLLING.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+	arm-none-eabi-gcc -o "UART_TRANSMITTER_POLLING.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/UART_TRANSMITTER_POLLING/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="UART_TRANSMITTER_POLLING.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

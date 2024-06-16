@@ -1808,3 +1808,4 @@
 2024-06-16 19:36:47,777 [INFO] WebApp:467 - Username used for proxy authentication: 
 2024-06-16 19:36:47,905 [INFO] WebApp:192 - Starting web application
 2024-06-16 19:36:47,905 [INFO] WebApp:544 - Web application path used /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_6.11.1.202404110753/db/plugins/mcufinder/reactClient1/index.html
+2024-06-16 23:15:06,328 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
