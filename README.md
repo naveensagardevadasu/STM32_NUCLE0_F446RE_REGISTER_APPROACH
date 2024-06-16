@@ -16,7 +16,7 @@ Setp 3: Once everything is done open the IDE.<br/>
 ![alt text](</Docs/Home_page.png>)<br/><br/>
 ![alt text](</Docs/STM CUBEIDE.png>)<br/><br/>
 
-##Creating a Project<br/><br/>
+## 2. Creating a Project<br/><br/>
 Step 1: select "Strat new STM32 project" from the home page or go to File -> New -> STM32 Project. This will take some time validate all the information to open the Target Selector.
 <br/>
 
@@ -39,7 +39,7 @@ Step 5: This open the workspace, on the Left Side of the Window we can see the "
 <br/>
 <br/>
 
-## 2. Building a Project
+## 3. Building a Project
 
 Once all the required applications are downloaded and installed, do the following steps to build the project.
 
@@ -59,7 +59,7 @@ Step 4: On Properties window navigate to the "C/C++ Build" click the arrow butto
 
 ![alt text](</Docs/Properties.png>)<br/>
 
-## 3. Debugging the Project.
+## 4. Debugging the Project.
 
 Step 1: Once build is successful got the procjet Workspace; right click on it and select option "Debug As" and select "Debug Configurations.". <br/>
 
@@ -72,8 +72,6 @@ Step 3: on the Debug Configurations window double click on the "STM32 C/C++ Appl
 ![alt text](</Docs/Debug_application.png>)<br/>
 
 Step 4: on the Debug Configurations select "Debugger" optiom and do the following changes. keeping the Board is connected.<br/>
-![alt text](</Docs/Debugger_Info.png>)<br/>
-<br/>
 
 ![alt text](/Docs/Debugger_Info.png)<br/>
 ![alt text](/Docs/Debugger_Info2.png)<br/>
@@ -82,7 +80,7 @@ Step 5: when a window pops to switch debug perspective select "Switch" allowing 
 
 ![alt text](</Docs/Debug_Perspective.png>)<br/>
 
-## 4. Adding SWV console to the window.
+## 5. Adding SWV console to the window.
 
 Step 1: From the file menu goto Window -> Show View -> SWV -> SWV ITM Data Console. this add the SWV consoler to the window manager, under the Editor window.<br/>
 ![alt text](</Docs/SWV_tool.png>)<br/>
