@@ -20,12 +20,12 @@ Setp 3: Once everything is done open the IDE.<br/>
 Step 1: select "Strat new STM32 project" from the home page or go to File -> New -> STM32 Project. This will take some time validate all the information to open the Target Selector.
 <br/>
 
-![alt text](https://github.com/naveensagardevadasu/STM32_NUCLE0_F446RE_REGISTER_APPROACH/blob/main/Docs/Start_new_proj.png?raw=true)             &emsp;(a)
+![alt text](https://github.com/naveensagardevadasu/STM32_NUCLE0_F446RE_REGISTER_APPROACH/blob/main/Docs/Start_new_proj.png?raw=true)             &emsp;(a)<br/>
 ![alt text](https://github.com/naveensagardevadasu/STM32_NUCLE0_F446RE_REGISTER_APPROACH/blob/main/Docs/Start_new_proj_b.png?raw=true)           &emsp;(b)<br/><br/>
 
 Step 2: On selector Window select  "Board Selector". under the Board selector search for "NUCLEO-F446RE" in "Commercial Part Number" search field.<br/>
 
-![alt text](</Docs/Board_Selector.png>)<br/>
+![alt text](https://github.com/naveensagardevadasu/STM32_NUCLE0_F446RE_REGISTER_APPROACH/blob/main/Docs/Board_Selector.png?raw=true)<br/>
 
 Step 3: Slect the Target Board from the 'Boards List' and click 'Next'.This opens STM32 Project Window.<br/>
 ![alt text](https://github.com/naveensagardevadasu/STM32_NUCLE0_F446RE_REGISTER_APPROACH/blob/main/Docs/Board_List.png?raw=true)<br/>
@@ -57,7 +57,7 @@ Step 3: Again Right Click on the project Workspace and select the "Clean Build" 
 
 Step 4: On Properties window navigate to the "C/C++ Build" click the arrow button shows a list. within the list goto "Settings", on next to this a list of options are poped. In that list goto "MCU Settings" and change "Floating-point Unit" to "None". select "Apply" When prompts to rebuild select "Rebuild Index".<br/>
 
-![alt text](</Docs/Properties.png>)<br/>
+![alt text](https://github.com/naveensagardevadasu/STM32_NUCLE0_F446RE_REGISTER_APPROACH/blob/main/Docs/Properties.png?raw=true)<br/>
 
 ## 4. Debugging the Project.
 
