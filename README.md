@@ -59,7 +59,7 @@ Step 4: On Properties window navigate to the "C/C++ Build" click the arrow butto
 
 ![alt text](</Docs/Properties.png>)<br/>
 
-# 3. Debugging the Project.
+## 3. Debugging the Project.
 
 Step 1: Once build is successful got the procjet Workspace; right click on it and select option "Debug As" and select "Debug Configurations.". <br/>
 
@@ -82,7 +82,7 @@ Step 5: when a window pops to switch debug perspective select "Switch" allowing 
 
 ![alt text](</Docs/Debug_Perspective.png>)<br/>
 
-# 4. Adding SWV console to the window.
+## 4. Adding SWV console to the window.
 
 Step 1: From the file menu goto Window -> Show View -> SWV -> SWV ITM Data Console. this add the SWV consoler to the window manager, under the Editor window.<br/>
 ![alt text](</Docs/SWV_tool.png>)<br/>
@@ -97,4 +97,4 @@ Step 3: on the configurator window navigate to ITM Stimulus Ports" and check the
 Step 4: under the File menu navigate to the "Resume" button. this starts the code; in the SWV ITM consoler the logs are printed.<br/>
 ![alt text](</Docs/Start_code.png>)</br>
 
-Step 5: To terminate from the debugg mode click the "STOP" button which is adjacent to Resume button.
+Step 5: To terminate from the debugg mode click the "STOP" button which is adjacent to Resume button.<br/>
