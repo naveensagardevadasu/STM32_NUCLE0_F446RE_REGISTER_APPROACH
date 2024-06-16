@@ -1,6 +1,6 @@
 # STM32_NUCLE0_F446RE_REGISTER_APPROACH
  
-## 1.Getting Started:<br/>
+## 1. Getting Started:<br/>
 
 Cooking Things ready for work:<br/>
 
