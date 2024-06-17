@@ -1,0 +1,6 @@
+../Src/main.c:41:6:SysTick_Init	1
+../Src/main.c:49:6:SysTick_Handler	2
+../Src/main.c:54:6:delay_ms	2
+../Src/main.c:59:10:getMillis	1
+../Src/main.c:65:6:clockSpeed_PLL	6
+../Src/main.c:95:5:main	3
