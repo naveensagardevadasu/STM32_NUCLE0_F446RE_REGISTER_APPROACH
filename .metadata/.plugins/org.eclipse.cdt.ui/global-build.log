@@ -1,24 +1,28 @@
-19:07:18 **** Build of configuration Debug for project PWM_OUT ****
+08:58:49 **** Build of configuration Debug for project ADC_PRINT ****
 make -j7 all 
 arm-none-eabi-gcc -mcpu=cortex-m4 -g3 -DDEBUG -c -x assembler-with-cpp -MMD -MP -MF"Startup/startup_stm32f446retx.d" -MT"Startup/startup_stm32f446retx.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Startup/startup_stm32f446retx.o" "../Startup/startup_stm32f446retx.s"
+arm-none-eabi-gcc "../Src/adc.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/adc.d" -MT"Src/adc.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/adc.o"
 arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
+arm-none-eabi-gcc "../Src/pll.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/pll.d" -MT"Src/pll.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/pll.o"
+arm-none-eabi-gcc "../Src/serial.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/serial.d" -MT"Src/serial.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/serial.o"
+arm-none-eabi-gcc "../Src/sysTick.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/sysTick.d" -MT"Src/sysTick.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/sysTick.o"
 arm-none-eabi-gcc "../Src/syscalls.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/syscalls.d" -MT"Src/syscalls.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/syscalls.o"
 arm-none-eabi-gcc "../Src/sysmem.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/sysmem.d" -MT"Src/sysmem.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/sysmem.o"
-arm-none-eabi-gcc -o "PWM_OUT.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/PWM_OUT/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PWM_OUT.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: PWM_OUT.elf
+arm-none-eabi-gcc -o "ADC_PRINT.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/ADC_PRINT/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="ADC_PRINT.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: ADC_PRINT.elf
  
-arm-none-eabi-size  PWM_OUT.elf 
-arm-none-eabi-objdump -h -S PWM_OUT.elf  > "PWM_OUT.list"
+arm-none-eabi-size  ADC_PRINT.elf 
+arm-none-eabi-objdump -h -S ADC_PRINT.elf  > "ADC_PRINT.list"
    text	   data	    bss	    dec	    hex	filename
-   1236	      0	   1576	   2812	    afc	PWM_OUT.elf
+   5572	     92	   1908	   7572	   1d94	ADC_PRINT.elf
 Finished building: default.size.stdout
  
-Finished building: PWM_OUT.list
+Finished building: ADC_PRINT.list
  
-19:08:10 **** Incremental Build of configuration Debug for project PWM_OUT ****
+09:01:29 **** Incremental Build of configuration Debug for project ADC_PRINT ****
 make -j7 all 
-arm-none-eabi-size  PWM_OUT.elf 
+arm-none-eabi-size  ADC_PRINT.elf 
    text	   data	    bss	    dec	    hex	filename
-   1236	      0	   1576	   2812	    afc	PWM_OUT.elf
+   5572	     92	   1908	   7572	   1d94	ADC_PRINT.elf
 Finished building: default.size.stdout
  

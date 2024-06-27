@@ -1,8 +1,0 @@
-../Src/core_cm4.h:1725:22:__NVIC_EnableIRQ	2
-../Src/main.c:40:6:SysTick_Init	1
-../Src/main.c:48:6:SysTick_Handler	2
-../Src/main.c:53:6:delay_ms	2
-../Src/main.c:58:10:getMillis	1
-../Src/main.c:62:6:clockSpeed_PLL	6
-../Src/main.c:90:5:main	1
-../Src/main.c:115:6:EXTI15_10_IRQHandler	2

@@ -1,0 +1,10 @@
+09:01:29 **** Incremental Build of configuration Debug for project ADC_PRINT ****
+make -j7 all 
+arm-none-eabi-size  ADC_PRINT.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5572	     92	   1908	   7572	   1d94	ADC_PRINT.elf
+Finished building: default.size.stdout
+ 
+
+09:01:30 Build Finished. 0 errors, 0 warnings. (took 175ms)
+
