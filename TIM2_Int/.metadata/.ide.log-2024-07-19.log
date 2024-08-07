@@ -1,0 +1,43 @@
+2024-07-20 00:35:44,778 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:35:44,807 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:35:44,807 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:37:10,901 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:37:10,902 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:37:10,902 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:37:49,896 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:37:49,898 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:37:49,898 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:38:13,058 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2024-07-20 00:38:15,811 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2024-07-20 00:49:47,630 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:49:47,633 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:49:47,634 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:49:54,219 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:49:54,220 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 00:49:54,220 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:35:37,311 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:35:37,312 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:35:37,312 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:35:37,458 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:35:37,458 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:35:37,458 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:36:34,533 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:36:34,533 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:36:34,533 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:36:34,607 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:36:34,607 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:36:34,608 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:37:35,347 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:37:35,348 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:37:35,348 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:37:35,438 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:37:35,438 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 11:37:35,438 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 12:14:18,750 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 12:14:18,750 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 12:14:18,750 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-07-20 13:45:21,817 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-07-20 13:45:51,403 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-07-20 13:45:54,470 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-07-20 15:01:57,062 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2024-07-20 15:01:58,570 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true

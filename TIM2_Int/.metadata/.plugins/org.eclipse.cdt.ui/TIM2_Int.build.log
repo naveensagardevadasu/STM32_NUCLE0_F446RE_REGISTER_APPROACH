@@ -1,0 +1,10 @@
+15:01:27 **** Incremental Build of configuration Debug for project TIM2_Int ****
+make -j20 all 
+arm-none-eabi-size  TIM2_Int.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3804	    100	   1900	   5804	   16ac	TIM2_Int.elf
+Finished building: default.size.stdout
+ 
+
+15:01:28 Build Finished. 0 errors, 0 warnings. (took 142ms)
+

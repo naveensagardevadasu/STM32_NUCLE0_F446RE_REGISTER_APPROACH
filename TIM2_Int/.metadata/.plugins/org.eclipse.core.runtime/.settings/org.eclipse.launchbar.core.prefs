@@ -1,0 +1,11 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIM2_Int Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_PRINT Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:BUTTON_INPUT Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Button_Interrupt Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PIN_OUTPUT Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART2_POLLING Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_OUT Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timer2_Interrupt_Mode Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Timer_polling_mode Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART_TRANSMITTER_POLLING Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:blinky_sketch Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIM2_Int,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMER2_POLLING Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_PRINT\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_PRINT\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIM2_Int/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIM2_Int/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TIMER2_POLLING\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:TIM2_Int\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

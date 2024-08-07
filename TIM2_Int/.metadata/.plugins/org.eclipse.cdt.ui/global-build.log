@@ -1,0 +1,21 @@
+05:12:07 **** Incremental Build of configuration Debug for project TIMER2_POLLING ****
+make -j20 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
+arm-none-eabi-gcc -o "TIMER2_POLLING.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Naveen\Desktop\STM32_NUCLE0_F446RE_REGISTER_APPROACH-main\STM32_NUCLE0_F446RE_REGISTER_APPROACH-main\TIMER2_POLLING\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="TIMER2_POLLING.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: TIMER2_POLLING.elf
+ 
+arm-none-eabi-size  TIMER2_POLLING.elf 
+arm-none-eabi-objdump -h -S TIMER2_POLLING.elf  > "TIMER2_POLLING.list"
+   text	   data	    bss	    dec	    hex	filename
+   5348	     92	   1900	   7340	   1cac	TIMER2_POLLING.elf
+Finished building: default.size.stdout
+ 
+Finished building: TIMER2_POLLING.list
+ 
+05:12:15 **** Incremental Build of configuration Debug for project TIMER2_POLLING ****
+make -j20 all 
+arm-none-eabi-size  TIMER2_POLLING.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5348	     92	   1900	   7340	   1cac	TIMER2_POLLING.elf
+Finished building: default.size.stdout
+ 

@@ -1,0 +1,7 @@
+../Src/main.c:6:6:delay_ms	24	static
+../Src/main.c:11:6:GPIO_INIT	4	static
+../Src/main.c:20:6:LCD_COMMAND	24	static
+../Src/main.c:30:6:LCD_DATA	24	static
+../Src/main.c:41:6:LCD_INIT	8	static
+../Src/main.c:54:6:LCD_STRING	16	static
+../Src/main.c:61:5:main	8	static
