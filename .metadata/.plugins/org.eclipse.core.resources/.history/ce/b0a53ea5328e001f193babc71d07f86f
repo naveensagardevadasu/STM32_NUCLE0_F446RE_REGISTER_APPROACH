@@ -1,0 +1,21 @@
+
+
+#include <stdint.h>
+#include "FreeRTOS.h"
+#include "task.h"
+
+
+TaskHandle_t  Task1_handler = NULL;
+
+void task1_callback(void* parameters)
+{
+	while(1)
+	{
+	}
+}
+
+int main(void)
+{
+    /* Loop forever */
+	for(;;);
+}

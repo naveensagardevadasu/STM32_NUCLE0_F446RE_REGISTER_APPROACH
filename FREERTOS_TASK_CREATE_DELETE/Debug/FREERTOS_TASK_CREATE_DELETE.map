@@ -1,0 +1,1977 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_impure_data)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
+                              ./Src/syscalls.o (__errno)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                              ./FreeRTOS/FreeRTOS-Kernel/queue.o (memcpy)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_malloc_r)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fflush_r)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (__malloc_lock)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__sread)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_close_r)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o) (errno)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_lseek_r)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_read_r)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_write_r)
+/Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+                              /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o) (_free_r)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x00000000       0x24 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .text          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .data          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .bss           0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_info    0x00000000       0x77 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_abbrev  0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_aranges
+                0x00000000       0x18 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0xde ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000      0xac0 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000      0x189 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0x22 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0x51 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000      0x103 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0x6a ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000      0x1df ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0xf1 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000      0x15a ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0xe4 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0x1f ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0x12 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000      0x534 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0xc3 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000      0x120 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_macro   0x00000000       0x49 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_line    0x00000000      0x575 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .debug_str     0x00000000     0x95e4 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .comment       0x00000000       0x44 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .ARM.attributes
+                0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .data          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .bss           0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupCreateStatic
+                0x00000000       0x72 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupSync
+                0x00000000      0x160 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000      0x1a4 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x72 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x48 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000      0x118 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x8a ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000       0x1a ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000       0x1a ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .text.prvTestWaitCondition
+                0x00000000       0x44 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_info    0x00000000      0xa6e ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_abbrev  0x00000000      0x2e6 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_aranges
+                0x00000000       0x70 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_rnglists
+                0x00000000       0x53 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0x1e5 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0xac0 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x2a ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x22 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x5b ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0x11c ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x57 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x10 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x58 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x1c ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0x177 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0x369 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x29 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0x103 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x6a ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0x1df ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0xf1 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0x15a ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0xe4 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x1f ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x12 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0x534 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0xc3 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000      0x120 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x91 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_macro   0x00000000       0x19 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_line    0x00000000      0xb6a ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_str     0x00000000     0xd209 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .comment       0x00000000       0x44 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .debug_frame   0x00000000      0x1a4 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .ARM.attributes
+                0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .text          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .data          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .bss           0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .text.vListInsertEnd
+                0x00000000       0x48 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .text.vListInsert
+                0x00000000       0x72 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .text.uxListRemove
+                0x00000000       0x54 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000      0xac0 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x2a ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x22 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x5b ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000      0x11c ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x57 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x10 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x58 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x1c ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000      0x177 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000      0x369 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x29 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000      0x103 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x6a ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000      0x1df ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0xf1 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000      0x15a ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0xe4 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x1f ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0x12 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000      0x534 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000000       0xc3 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .data          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .bss           0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .bss.xQueueRegistry
+                0x00000000       0x40 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueGenericReset
+                0x00000000      0x124 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueGenericCreateStatic
+                0x00000000       0xc2 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueGenericCreate
+                0x00000000       0xa6 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.prvInitialiseNewQueue
+                0x00000000       0x3e ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.prvInitialiseMutex
+                0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x30 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueCreateMutexStatic
+                0x00000000       0x36 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueCreateCountingSemaphoreStatic
+                0x00000000       0x66 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x5e ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueGenericSend
+                0x00000000      0x204 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000      0x16c ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000      0x150 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueReceive
+                0x00000000      0x1c4 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueSemaphoreTake
+                0x00000000      0x200 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueuePeek
+                0x00000000      0x1c8 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000      0x134 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0xd8 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x3e ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x48 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x3e ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.vQueueDelete
+                0x00000000       0x48 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.prvGetDisinheritPriorityAfterTimeout
+                0x00000000       0x30 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.prvCopyDataToQueue
+                0x00000000       0xd4 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.prvCopyDataFromQueue
+                0x00000000       0x4c ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.prvUnlockQueue
+                0x00000000       0xa4 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.prvIsQueueEmpty
+                0x00000000       0x2c ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x4a ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.prvIsQueueFull
+                0x00000000       0x30 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x4e ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.vQueueAddToRegistry
+                0x00000000       0xa0 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.pcQueueGetName
+                0x00000000       0x6c ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x74 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_info    0x00000000     0x197f ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_abbrev  0x00000000      0x386 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_aranges
+                0x00000000      0x118 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_rnglists
+                0x00000000       0xdb ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0x22f ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0xac0 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x2a ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x22 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x5b ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0x11c ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x57 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x10 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x58 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x1c ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0x177 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0x369 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x29 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x35 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x20 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0x103 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x6a ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0x1df ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0xf1 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0x15a ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0xe4 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x1f ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x12 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0x534 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0xc3 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000      0x120 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_macro   0x00000000       0x87 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_line    0x00000000     0x16af ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_str     0x00000000     0xd911 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .comment       0x00000000       0x44 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .debug_frame   0x00000000      0x4b4 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .ARM.attributes
+                0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/queue.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .data          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .bss           0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferGenericCreate
+                0x00000000       0xd4 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferGenericCreateStatic
+                0x00000000      0x114 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.vStreamBufferDelete
+                0x00000000       0x50 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferReset
+                0x00000000       0x80 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSetTriggerLevel
+                0x00000000       0x5e ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSpacesAvailable
+                0x00000000       0x78 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferBytesAvailable
+                0x00000000       0x3c ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSend
+                0x00000000      0x1a2 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSendFromISR
+                0x00000000       0xea ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.prvWriteMessageToBuffer
+                0x00000000       0x92 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferReceive
+                0x00000000      0x136 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferNextMessageLengthBytes
+                0x00000000       0x8c ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferReceiveFromISR
+                0x00000000       0xe2 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.prvReadMessageFromBuffer
+                0x00000000       0x7a ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferIsEmpty
+                0x00000000       0x52 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferIsFull
+                0x00000000       0x62 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferSendCompletedFromISR
+                0x00000000       0x8c ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.xStreamBufferReceiveCompletedFromISR
+                0x00000000       0x8c ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.prvWriteBytesToBuffer
+                0x00000000       0xe0 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.prvReadBytesFromBuffer
+                0x00000000       0xda ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.prvBytesInBuffer
+                0x00000000       0x40 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .text.prvInitialiseNewStreamBuffer
+                0x00000000       0x68 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_info    0x00000000     0x13b7 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_abbrev  0x00000000      0x303 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_aranges
+                0x00000000       0xc8 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_rnglists
+                0x00000000       0x9e ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0x202 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0xac0 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x22 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x51 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0x103 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x6a ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0x1df ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x61 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x2a ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0x189 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x10 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x58 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x1c ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0x177 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0x369 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x10 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x35 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x20 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0xf1 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0x15a ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0xe4 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x1f ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x12 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0x534 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0xc3 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000      0x120 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_macro   0x00000000       0x18 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_line    0x00000000     0x108e ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_str     0x00000000     0xd3ea ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .comment       0x00000000       0x44 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .debug_frame   0x00000000      0x35c ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .ARM.attributes
+                0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .data          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss           0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x00000000        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xIdleTaskHandle
+                0x00000000        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .data.uxTopUsedPriority
+                0x00000000        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskCreateStatic
+                0x00000000       0xca ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskDelete
+                0x00000000      0x12c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskDelay
+                0x00000000       0x6c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x58 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000      0x1a8 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskSuspend
+                0x00000000      0x140 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x64 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskResume
+                0x00000000      0x10c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000      0x140 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .rodata        0x00000000        0x5 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskStartScheduler
+                0x00000000       0xcc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x30 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000       0x20 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x24 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x18 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x4c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskCatchUpTicks
+                0x00000000       0x58 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x00000000       0x4c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0xb0 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskRemoveFromEventList
+                0x00000000      0x1b0 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000      0x184 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x50 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskInternalSetTimeOutState
+                0x00000000       0x2c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskCheckForTimeOut
+                0x00000000       0xd0 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskMissedYield
+                0x00000000       0x18 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.prvIdleTask
+                0x00000000       0x30 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x00000000       0x5c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.prvDeleteTCB
+                0x00000000       0x60 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x20 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskGetSchedulerState
+                0x00000000       0x3c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskPriorityInherit
+                0x00000000      0x13c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskPriorityDisinherit
+                0x00000000      0x14c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00000000      0x174 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x30 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.ulTaskGenericNotifyTake
+                0x00000000       0xd8 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskGenericNotifyWait
+                0x00000000      0x10c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x25c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x2cc ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskGenericNotifyGiveFromISR
+                0x00000000      0x214 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.xTaskGenericNotifyStateClear
+                0x00000000       0x74 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.ulTaskGenericNotifyValueClear
+                0x00000000       0x60 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x00000000      0x100 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000      0xac0 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x2a ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x22 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x5b ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000      0x11c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x57 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x10 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x58 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x1c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000      0x177 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000      0x369 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x29 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x35 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x20 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000      0x103 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x6a ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000      0x1df ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0xf1 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000      0x15a ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0xe4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x1f ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x12 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000      0x534 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0xc3 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000      0x120 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000000       0x91 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .text          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .data          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .bss           0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_info    0x00000000       0x77 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_abbrev  0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_aranges
+                0x00000000       0x18 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0x1c3 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0xac0 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x2a ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x22 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x5b ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0x11c ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x57 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x10 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x58 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x1c ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0x177 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0x369 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x29 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0x103 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x6a ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0x1df ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0xf1 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0x15a ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0xe4 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x1f ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x12 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0x534 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0xc3 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000      0x120 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x87 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_macro   0x00000000       0x97 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_line    0x00000000      0x6d5 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .debug_str     0x00000000     0xd1ad ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .comment       0x00000000       0x44 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .ARM.attributes
+                0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/timers.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .text          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .data          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .bss           0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .bss.ucMaxSysCallPriority
+                0x00000000        0x1 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .bss.ulMaxPRIGROUPValue
+                0x00000000        0x4 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .rodata.pcInterruptPriorityRegisters
+                0x00000000        0x4 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .text.prvPortStartFirstTask
+                0x00000000       0x2c ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .text.xPortStartScheduler
+                0x00000000      0x148 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .text.vPortEndScheduler
+                0x00000000       0x38 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .text.vPortSetupTimerInterrupt
+                0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .text.vPortEnableVFP
+                0x00000000       0x18 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .text.vPortValidateInterruptPriority
+                0x00000000       0x84 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0xac0 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x189 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x22 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x51 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x103 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x6a ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x1df ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0xf1 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x15a ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0xe4 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x1f ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0x12 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x534 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000       0xc3 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000      0x120 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .data          0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss           0x00000000        0x0 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .rodata.xHeapStructSize
+                0x00000000        0x4 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x18 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000       0x18 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0xe ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.pvPortCalloc
+                0x00000000       0x60 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.vPortGetHeapStats
+                0x00000000       0xbc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0xac0 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x2a ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x22 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x5b ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x11c ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x94 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x57 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x34 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x10 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x58 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x8e ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x1c ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x177 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x369 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x29 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x16 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x35 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x20 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x103 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x6a ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x1df ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0xf1 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x15a ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0xe4 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x28 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x1f ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0x12 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x534 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000       0xc3 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x00000000      0x120 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .group         0x00000000        0xc ./Src/main.o
+ .text          0x00000000        0x0 ./Src/main.o
+ .data          0x00000000        0x0 ./Src/main.o
+ .bss           0x00000000        0x0 ./Src/main.o
+ .debug_macro   0x00000000      0xac0 ./Src/main.o
+ .debug_macro   0x00000000       0x22 ./Src/main.o
+ .debug_macro   0x00000000       0x8e ./Src/main.o
+ .debug_macro   0x00000000       0x51 ./Src/main.o
+ .debug_macro   0x00000000      0x103 ./Src/main.o
+ .debug_macro   0x00000000       0x6a ./Src/main.o
+ .debug_macro   0x00000000      0x1df ./Src/main.o
+ .debug_macro   0x00000000      0x189 ./Src/main.o
+ .debug_macro   0x00000000       0xf1 ./Src/main.o
+ .debug_macro   0x00000000      0x15a ./Src/main.o
+ .debug_macro   0x00000000       0xe4 ./Src/main.o
+ .debug_macro   0x00000000       0x28 ./Src/main.o
+ .debug_macro   0x00000000       0x1f ./Src/main.o
+ .debug_macro   0x00000000       0x12 ./Src/main.o
+ .debug_macro   0x00000000      0x534 ./Src/main.o
+ .debug_macro   0x00000000       0xc3 ./Src/main.o
+ .debug_macro   0x00000000      0x120 ./Src/main.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/syscalls.o
+ .text          0x00000000        0x0 ./Src/syscalls.o
+ .data          0x00000000        0x0 ./Src/syscalls.o
+ .bss           0x00000000        0x0 ./Src/syscalls.o
+ .bss.__env     0x00000000        0x4 ./Src/syscalls.o
+ .data.environ  0x00000000        0x4 ./Src/syscalls.o
+ .text.initialise_monitor_handles
+                0x00000000        0xe ./Src/syscalls.o
+ .text._getpid  0x00000000       0x10 ./Src/syscalls.o
+ .text._kill    0x00000000       0x20 ./Src/syscalls.o
+ .text._exit    0x00000000       0x16 ./Src/syscalls.o
+ .text._read    0x00000000       0x3a ./Src/syscalls.o
+ .text._write   0x00000000       0x38 ./Src/syscalls.o
+ .text._close   0x00000000       0x18 ./Src/syscalls.o
+ .text._fstat   0x00000000       0x20 ./Src/syscalls.o
+ .text._isatty  0x00000000       0x16 ./Src/syscalls.o
+ .text._lseek   0x00000000       0x1a ./Src/syscalls.o
+ .text._open    0x00000000       0x1c ./Src/syscalls.o
+ .text._wait    0x00000000       0x1e ./Src/syscalls.o
+ .text._unlink  0x00000000       0x1e ./Src/syscalls.o
+ .text._times   0x00000000       0x18 ./Src/syscalls.o
+ .text._stat    0x00000000       0x20 ./Src/syscalls.o
+ .text._link    0x00000000       0x20 ./Src/syscalls.o
+ .text._fork    0x00000000       0x16 ./Src/syscalls.o
+ .text._execve  0x00000000       0x22 ./Src/syscalls.o
+ .debug_info    0x00000000      0x6a3 ./Src/syscalls.o
+ .debug_abbrev  0x00000000      0x1b6 ./Src/syscalls.o
+ .debug_aranges
+                0x00000000       0xa8 ./Src/syscalls.o
+ .debug_rnglists
+                0x00000000       0x79 ./Src/syscalls.o
+ .debug_macro   0x00000000      0x274 ./Src/syscalls.o
+ .debug_macro   0x00000000      0xac0 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x22 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x5b ./Src/syscalls.o
+ .debug_macro   0x00000000       0x2a ./Src/syscalls.o
+ .debug_macro   0x00000000       0x94 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x43 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x34 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x57 ./Src/syscalls.o
+ .debug_macro   0x00000000      0x189 ./Src/syscalls.o
+ .debug_macro   0x00000000      0x369 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x16 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x43 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x34 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x10 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x58 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x8e ./Src/syscalls.o
+ .debug_macro   0x00000000       0x1c ./Src/syscalls.o
+ .debug_macro   0x00000000      0x177 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x10 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x35 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x10 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x10 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x10 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x6a ./Src/syscalls.o
+ .debug_macro   0x00000000       0x1c ./Src/syscalls.o
+ .debug_macro   0x00000000       0x52 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x22 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x10 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x52 ./Src/syscalls.o
+ .debug_macro   0x00000000       0xcf ./Src/syscalls.o
+ .debug_macro   0x00000000       0x1c ./Src/syscalls.o
+ .debug_macro   0x00000000       0x3d ./Src/syscalls.o
+ .debug_macro   0x00000000       0x35 ./Src/syscalls.o
+ .debug_macro   0x00000000      0x12c ./Src/syscalls.o
+ .debug_macro   0x00000000       0x16 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x16 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x29 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x10 ./Src/syscalls.o
+ .debug_macro   0x00000000      0x242 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x1c ./Src/syscalls.o
+ .debug_macro   0x00000000       0x10 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x10 ./Src/syscalls.o
+ .debug_macro   0x00000000       0x16 ./Src/syscalls.o
+ .debug_macro   0x00000000      0x146 ./Src/syscalls.o
+ .debug_macro   0x00000000      0x103 ./Src/syscalls.o
+ .debug_macro   0x00000000      0x1df ./Src/syscalls.o
+ .debug_macro   0x00000000      0x18a ./Src/syscalls.o
+ .debug_macro   0x00000000       0x16 ./Src/syscalls.o
+ .debug_macro   0x00000000       0xce ./Src/syscalls.o
+ .debug_line    0x00000000      0x846 ./Src/syscalls.o
+ .debug_str     0x00000000     0x98f6 ./Src/syscalls.o
+ .comment       0x00000000       0x44 ./Src/syscalls.o
+ .debug_frame   0x00000000      0x2ac ./Src/syscalls.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/syscalls.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .group         0x00000000        0xc ./Src/sysmem.o
+ .text          0x00000000        0x0 ./Src/sysmem.o
+ .data          0x00000000        0x0 ./Src/sysmem.o
+ .bss           0x00000000        0x0 ./Src/sysmem.o
+ .bss.__sbrk_heap_end
+                0x00000000        0x4 ./Src/sysmem.o
+ .text._sbrk    0x00000000       0x6c ./Src/sysmem.o
+ .debug_info    0x00000000      0x168 ./Src/sysmem.o
+ .debug_abbrev  0x00000000       0xbc ./Src/sysmem.o
+ .debug_aranges
+                0x00000000       0x20 ./Src/sysmem.o
+ .debug_rnglists
+                0x00000000       0x13 ./Src/sysmem.o
+ .debug_macro   0x00000000       0xff ./Src/sysmem.o
+ .debug_macro   0x00000000      0xac0 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x10 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x22 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x5b ./Src/sysmem.o
+ .debug_macro   0x00000000       0x2a ./Src/sysmem.o
+ .debug_macro   0x00000000       0x94 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x43 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x34 ./Src/sysmem.o
+ .debug_macro   0x00000000      0x189 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x16 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x43 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x57 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x34 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x10 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x58 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x8e ./Src/sysmem.o
+ .debug_macro   0x00000000       0x1c ./Src/sysmem.o
+ .debug_macro   0x00000000      0x177 ./Src/sysmem.o
+ .debug_macro   0x00000000      0x23c ./Src/sysmem.o
+ .debug_macro   0x00000000      0x103 ./Src/sysmem.o
+ .debug_macro   0x00000000       0x6a ./Src/sysmem.o
+ .debug_macro   0x00000000      0x1df ./Src/sysmem.o
+ .debug_line    0x00000000      0x517 ./Src/sysmem.o
+ .debug_str     0x00000000     0x610e ./Src/sysmem.o
+ .comment       0x00000000       0x44 ./Src/sysmem.o
+ .debug_frame   0x00000000       0x34 ./Src/sysmem.o
+ .ARM.attributes
+                0x00000000       0x34 ./Src/sysmem.o
+ .text          0x00000000       0x14 ./Startup/startup_stm32f446retx.o
+ .data          0x00000000        0x0 ./Startup/startup_stm32f446retx.o
+ .bss           0x00000000        0x0 ./Startup/startup_stm32f446retx.o
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x24 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000000      0x144 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000       0x4c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
+ .text.__errno  0x00000000        0xc /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
+ .debug_frame   0x00000000       0x20 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-errno.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x00000000        0x2 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x00000000        0x2 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x1c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x100 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_free_list
+                0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x108 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xac /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x38 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x00000000       0x24 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+FLASH            0x08000000         0x00080000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD ./FreeRTOS/FreeRTOS-Kernel/croutine.o
+LOAD ./FreeRTOS/FreeRTOS-Kernel/event_groups.o
+LOAD ./FreeRTOS/FreeRTOS-Kernel/list.o
+LOAD ./FreeRTOS/FreeRTOS-Kernel/queue.o
+LOAD ./FreeRTOS/FreeRTOS-Kernel/stream_buffer.o
+LOAD ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+LOAD ./FreeRTOS/FreeRTOS-Kernel/timers.o
+LOAD ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+LOAD ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+LOAD ./Src/main.o
+LOAD ./Src/syscalls.o
+LOAD ./Src/sysmem.o
+LOAD ./Startup/startup_stm32f446retx.o
+START GROUP
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+END GROUP
+START GROUP
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x1c4
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1c4 ./Startup/startup_stm32f446retx.o
+                0x08000000                g_pfnVectors
+                0x080001c4                        . = ALIGN (0x4)
+
+.text           0x080001d0     0x1008
+                0x080001d0                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001d0       0x40 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.text*)
+ .text.vListInitialise
+                0x08000210       0x40 ./FreeRTOS/FreeRTOS-Kernel/list.o
+                0x08000210                vListInitialise
+ .text.vListInitialiseItem
+                0x08000250       0x1a ./FreeRTOS/FreeRTOS-Kernel/list.o
+                0x08000250                vListInitialiseItem
+ .text.xTaskCreate
+                0x0800026a       0x94 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+                0x0800026a                xTaskCreate
+ .text.prvInitialiseNewTask
+                0x080002fe      0x110 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ *fill*         0x0800040e        0x2 
+ .text.prvAddNewTaskToReadyList
+                0x08000410      0x124 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.vTaskSuspendAll
+                0x08000534       0x1c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+                0x08000534                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x08000550      0x1f8 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+                0x08000550                xTaskResumeAll
+ .text.xTaskIncrementTick
+                0x08000748      0x230 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+                0x08000748                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x08000978       0xb8 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+                0x08000978                vTaskSwitchContext
+ .text.prvInitialiseTaskLists
+                0x08000a30       0x80 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.prvResetNextTaskUnblockTime
+                0x08000ab0       0x38 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .text.pxPortInitialiseStack
+                0x08000ae8       0x68 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+                0x08000ae8                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x08000b50       0x5c ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ *fill*         0x08000bac        0x4 
+ .text.SVC_Handler
+                0x08000bb0       0x28 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+                0x08000bb0                SVC_Handler
+ .text.vPortEnterCritical
+                0x08000bd8       0x64 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+                0x08000bd8                vPortEnterCritical
+ .text.vPortExitCritical
+                0x08000c3c       0x54 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+                0x08000c3c                vPortExitCritical
+ .text.PendSV_Handler
+                0x08000c90       0x68 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+                0x08000c90                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000cf8       0x44 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+                0x08000cf8                SysTick_Handler
+ .text.pvPortMalloc
+                0x08000d3c      0x178 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+                0x08000d3c                pvPortMalloc
+ .text.vPortFree
+                0x08000eb4       0xbc ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+                0x08000eb4                vPortFree
+ .text.prvHeapInit
+                0x08000f70       0xb8 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.prvInsertBlockIntoFreeList
+                0x08001028       0xb4 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .text.task1_callback
+                0x080010dc        0xc ./Src/main.o
+                0x080010dc                task1_callback
+ .text.main     0x080010e8       0x2c ./Src/main.o
+                0x080010e8                main
+ .text.Reset_Handler
+                0x08001114       0x50 ./Startup/startup_stm32f446retx.o
+                0x08001114                Reset_Handler
+ .text.Default_Handler
+                0x08001164        0x2 ./Startup/startup_stm32f446retx.o
+                0x08001164                DMA1_Stream3_IRQHandler
+                0x08001164                EXTI2_IRQHandler
+                0x08001164                TIM8_CC_IRQHandler
+                0x08001164                SPDIF_Rx_IRQHandler
+                0x08001164                DebugMon_Handler
+                0x08001164                SPI4_IRQHandler
+                0x08001164                TIM1_CC_IRQHandler
+                0x08001164                QuadSPI_IRQHandler
+                0x08001164                DMA2_Stream5_IRQHandler
+                0x08001164                HardFault_Handler
+                0x08001164                DMA1_Stream5_IRQHandler
+                0x08001164                PVD_IRQHandler
+                0x08001164                SDIO_IRQHandler
+                0x08001164                TAMP_STAMP_IRQHandler
+                0x08001164                NMI_Handler
+                0x08001164                CAN2_RX1_IRQHandler
+                0x08001164                EXTI3_IRQHandler
+                0x08001164                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08001164                TIM1_UP_TIM10_IRQHandler
+                0x08001164                FMPI2C1_error_IRQHandler
+                0x08001164                TIM8_UP_TIM13_IRQHandler
+                0x08001164                I2C3_ER_IRQHandler
+                0x08001164                EXTI0_IRQHandler
+                0x08001164                I2C2_EV_IRQHandler
+                0x08001164                DMA1_Stream2_IRQHandler
+                0x08001164                CAN1_RX0_IRQHandler
+                0x08001164                OTG_HS_WKUP_IRQHandler
+                0x08001164                UsageFault_Handler
+                0x08001164                CAN2_SCE_IRQHandler
+                0x08001164                DMA2_Stream2_IRQHandler
+                0x08001164                SPI1_IRQHandler
+                0x08001164                TIM6_DAC_IRQHandler
+                0x08001164                TIM1_BRK_TIM9_IRQHandler
+                0x08001164                DCMI_IRQHandler
+                0x08001164                CAN2_RX0_IRQHandler
+                0x08001164                DMA2_Stream3_IRQHandler
+                0x08001164                FMPI2C1_IRQHandler
+                0x08001164                SAI2_IRQHandler
+                0x08001164                USART6_IRQHandler
+                0x08001164                USART3_IRQHandler
+                0x08001164                CAN1_RX1_IRQHandler
+                0x08001164                UART5_IRQHandler
+                0x08001164                DMA2_Stream0_IRQHandler
+                0x08001164                TIM4_IRQHandler
+                0x08001164                I2C1_EV_IRQHandler
+                0x08001164                HDMI_CEC_IRQHandler
+                0x08001164                DMA1_Stream6_IRQHandler
+                0x08001164                DMA1_Stream1_IRQHandler
+                0x08001164                UART4_IRQHandler
+                0x08001164                TIM3_IRQHandler
+                0x08001164                RCC_IRQHandler
+                0x08001164                TIM8_BRK_TIM12_IRQHandler
+                0x08001164                Default_Handler
+                0x08001164                EXTI15_10_IRQHandler
+                0x08001164                ADC_IRQHandler
+                0x08001164                DMA1_Stream7_IRQHandler
+                0x08001164                TIM7_IRQHandler
+                0x08001164                CAN2_TX_IRQHandler
+                0x08001164                TIM5_IRQHandler
+                0x08001164                DMA2_Stream7_IRQHandler
+                0x08001164                I2C3_EV_IRQHandler
+                0x08001164                EXTI9_5_IRQHandler
+                0x08001164                RTC_WKUP_IRQHandler
+                0x08001164                SPI2_IRQHandler
+                0x08001164                OTG_HS_EP1_IN_IRQHandler
+                0x08001164                MemManage_Handler
+                0x08001164                DMA1_Stream0_IRQHandler
+                0x08001164                CAN1_TX_IRQHandler
+                0x08001164                EXTI4_IRQHandler
+                0x08001164                OTG_HS_EP1_OUT_IRQHandler
+                0x08001164                WWDG_IRQHandler
+                0x08001164                TIM2_IRQHandler
+                0x08001164                OTG_FS_WKUP_IRQHandler
+                0x08001164                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08001164                OTG_HS_IRQHandler
+                0x08001164                EXTI1_IRQHandler
+                0x08001164                USART2_IRQHandler
+                0x08001164                I2C2_ER_IRQHandler
+                0x08001164                DMA2_Stream1_IRQHandler
+                0x08001164                CAN1_SCE_IRQHandler
+                0x08001164                FLASH_IRQHandler
+                0x08001164                DMA2_Stream4_IRQHandler
+                0x08001164                BusFault_Handler
+                0x08001164                USART1_IRQHandler
+                0x08001164                OTG_FS_IRQHandler
+                0x08001164                SPI3_IRQHandler
+                0x08001164                DMA1_Stream4_IRQHandler
+                0x08001164                I2C1_ER_IRQHandler
+                0x08001164                FMC_IRQHandler
+                0x08001164                DMA2_Stream6_IRQHandler
+                0x08001164                SAI1_IRQHandler
+                0x08001164                RTC_Alarm_IRQHandler
+ .text.memset   0x08001166       0x10 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                0x08001166                memset
+ *fill*         0x08001176        0x2 
+ .text.__libc_init_array
+                0x08001178       0x48 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                0x08001178                __libc_init_array
+ *(.glue_7)
+ .glue_7        0x080011c0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080011c0        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080011c0        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x080011c0        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x080011c0                _init
+ .init          0x080011c4        0x8 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x080011cc        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x080011cc                _fini
+ .fini          0x080011d0        0x8 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x080011d8                        . = ALIGN (0x4)
+                0x080011d8                        _etext = .
+
+.vfp11_veneer   0x080011d8        0x0
+ .vfp11_veneer  0x080011d8        0x0 linker stubs
+
+.v4_bx          0x080011d8        0x0
+ .v4_bx         0x080011d8        0x0 linker stubs
+
+.iplt           0x080011d8        0x0
+ .iplt          0x080011d8        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x080011d8        0x8
+                0x080011d8                        . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x080011d8        0x7 ./Src/main.o
+ *(.rodata*)
+                0x080011e0                        . = ALIGN (0x4)
+ *fill*         0x080011df        0x1 
+
+.ARM.extab      0x080011e0        0x0
+                0x080011e0                        . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x080011e0                        . = ALIGN (0x4)
+
+.ARM            0x080011e0        0x0
+                0x080011e0                        . = ALIGN (0x4)
+                0x080011e0                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x080011e0                        __exidx_end = .
+                0x080011e0                        . = ALIGN (0x4)
+
+.preinit_array  0x080011e0        0x0
+                0x080011e0                        . = ALIGN (0x4)
+                0x080011e0                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x080011e0                        PROVIDE (__preinit_array_end = .)
+                0x080011e0                        . = ALIGN (0x4)
+
+.init_array     0x080011e0        0x4
+                0x080011e0                        . = ALIGN (0x4)
+                0x080011e0                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x080011e0        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x080011e4                        PROVIDE (__init_array_end = .)
+                0x080011e4                        . = ALIGN (0x4)
+
+.fini_array     0x080011e4        0x4
+                0x080011e4                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x080011e4        0x4 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x080011e8                        . = ALIGN (0x4)
+                0x080011e8                        _sidata = LOADADDR (.data)
+
+.rel.dyn        0x080011e8        0x0
+ .rel.iplt      0x080011e8        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.data           0x20000000        0x4 load address 0x080011e8
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data.uxCriticalNesting
+                0x20000000        0x4 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ *(.RamFunc)
+ *(.RamFunc*)
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _edata = .
+
+.igot.plt       0x20000004        0x0 load address 0x080011ec
+ .igot.plt      0x20000004        0x0 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20000004                        . = ALIGN (0x4)
+
+.bss            0x20000004     0x3d60 load address 0x080011ec
+                0x20000004                        _sbss = .
+                0x20000004                        __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000004       0x1c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.pxCurrentTCB
+                0x20000020        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+                0x20000020                pxCurrentTCB
+ .bss.pxReadyTasksLists
+                0x20000024       0x8c ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xDelayedTaskList1
+                0x200000b0       0x14 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xDelayedTaskList2
+                0x200000c4       0x14 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.pxDelayedTaskList
+                0x200000d8        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x200000dc        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xPendingReadyList
+                0x200000e0       0x14 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xTasksWaitingTermination
+                0x200000f4       0x14 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xSuspendedTaskList
+                0x20000108       0x14 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x2000011c        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xTickCount
+                0x20000120        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.uxTopReadyPriority
+                0x20000124        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xSchedulerRunning
+                0x20000128        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xPendedTicks
+                0x2000012c        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xYieldPending
+                0x20000130        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xNumOfOverflows
+                0x20000134        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.uxTaskNumber
+                0x20000138        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x2000013c        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.uxSchedulerSuspended
+                0x20000140        0x4 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .bss.ucHeap    0x20000144     0x3c00 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.xStart    0x20003d44        0x8 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.pxEnd     0x20003d4c        0x4 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x20003d50        0x4 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x20003d54        0x4 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.xNumberOfSuccessfulAllocations
+                0x20003d58        0x4 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.xNumberOfSuccessfulFrees
+                0x20003d5c        0x4 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .bss.Task1_handler
+                0x20003d60        0x4 ./Src/main.o
+                0x20003d60                Task1_handler
+ *(COMMON)
+                0x20003d64                        . = ALIGN (0x4)
+                0x20003d64                        _ebss = .
+                0x20003d64                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20003d64      0x604 load address 0x080011ec
+                0x20003d68                        . = ALIGN (0x8)
+ *fill*         0x20003d64        0x4 
+                [!provide]                        PROVIDE (end = .)
+                0x20003d68                        PROVIDE (_end = .)
+                0x20003f68                        . = (. + _Min_Heap_Size)
+ *fill*         0x20003d68      0x200 
+                0x20004368                        . = (. + _Min_Stack_Size)
+ *fill*         0x20003f68      0x400 
+                0x20004368                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x22 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x34 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .ARM.attributes
+                0x0000008a       0x34 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .ARM.attributes
+                0x000000be       0x34 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .ARM.attributes
+                0x000000f2       0x34 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .ARM.attributes
+                0x00000126       0x34 ./Src/main.o
+ .ARM.attributes
+                0x0000015a       0x21 ./Startup/startup_stm32f446retx.o
+ .ARM.attributes
+                0x0000017b       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x000001af       0x34 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x000001e3       0x22 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(FREERTOS_TASK_CREATE_DELETE.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7e-m+fp/hard/libgcc.a
+
+.debug_info     0x00000000     0x300b
+ .debug_info    0x00000000      0x2af ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_info    0x000002af     0x21b6 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_info    0x00002465      0x4d5 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_info    0x0000293a      0x521 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_info    0x00002e5b      0x180 ./Src/main.o
+ .debug_info    0x00002fdb       0x30 ./Startup/startup_stm32f446retx.o
+
+.debug_abbrev   0x00000000      0x9e9
+ .debug_abbrev  0x00000000       0xf5 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_abbrev  0x000000f5      0x358 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_abbrev  0x0000044d      0x247 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_abbrev  0x00000694      0x256 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_abbrev  0x000008ea       0xdb ./Src/main.o
+ .debug_abbrev  0x000009c5       0x24 ./Startup/startup_stm32f446retx.o
+
+.debug_aranges  0x00000000      0x328
+ .debug_aranges
+                0x00000000       0x40 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_aranges
+                0x00000040      0x1b8 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_aranges
+                0x000001f8       0x80 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_aranges
+                0x00000278       0x60 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_aranges
+                0x000002d8       0x28 ./Src/main.o
+ .debug_aranges
+                0x00000300       0x28 ./Startup/startup_stm32f446retx.o
+
+.debug_rnglists
+                0x00000000      0x262
+ .debug_rnglists
+                0x00000000       0x2b ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_rnglists
+                0x0000002b      0x160 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_rnglists
+                0x0000018b       0x5d ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_rnglists
+                0x000001e8       0x48 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_rnglists
+                0x00000230       0x19 ./Src/main.o
+ .debug_rnglists
+                0x00000249       0x19 ./Startup/startup_stm32f446retx.o
+
+.debug_macro    0x00000000      0x8c2
+ .debug_macro   0x00000000      0x198 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_macro   0x00000198      0x27e ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x00000416       0x17 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_macro   0x0000042d      0x1a7 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x000005d4      0x219 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_macro   0x000007ed       0xd5 ./Src/main.o
+
+.debug_line     0x00000000     0x3c12
+ .debug_line    0x00000000      0x7cf ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_line    0x000007cf     0x1b54 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_line    0x00002323      0x8a5 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_line    0x00002bc8      0xa50 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_line    0x00003618      0x57f ./Src/main.o
+ .debug_line    0x00003b97       0x7b ./Startup/startup_stm32f446retx.o
+
+.debug_str      0x00000000     0xec7c
+ .debug_str     0x00000000     0xaee1 ./FreeRTOS/FreeRTOS-Kernel/list.o
+                               0xb106 (size before relaxing)
+ .debug_str     0x0000aee1     0x2f61 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+                               0xe0aa (size before relaxing)
+ .debug_str     0x0000de42      0x7db ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+                               0x993d (size before relaxing)
+ .debug_str     0x0000e61d      0x5e5 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+                               0xc930 (size before relaxing)
+ .debug_str     0x0000ec02       0x3b ./Src/main.o
+                               0x9067 (size before relaxing)
+ .debug_str     0x0000ec3d       0x3f ./Startup/startup_stm32f446retx.o
+                                 0xae (size before relaxing)
+
+.comment        0x00000000       0x43
+ .comment       0x00000000       0x43 ./FreeRTOS/FreeRTOS-Kernel/list.o
+                                 0x44 (size before relaxing)
+ .comment       0x00000043       0x44 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .comment       0x00000043       0x44 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .comment       0x00000043       0x44 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .comment       0x00000043       0x44 ./Src/main.o
+
+.debug_frame    0x00000000      0xbec
+ .debug_frame   0x00000000       0xd8 ./FreeRTOS/FreeRTOS-Kernel/list.o
+ .debug_frame   0x000000d8      0x784 ./FreeRTOS/FreeRTOS-Kernel/tasks.o
+ .debug_frame   0x0000085c      0x1a8 ./FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F/port.o
+ .debug_frame   0x00000a04      0x150 ./FreeRTOS/FreeRTOS-Kernel/portable/MemMang/heap_4.o
+ .debug_frame   0x00000b54       0x4c ./Src/main.o
+ .debug_frame   0x00000ba0       0x20 /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000bc0       0x2c /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.macos64_1.0.200.202406191456/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+
+.debug_line_str
+                0x00000000       0x92
+ .debug_line_str
+                0x00000000       0x92 ./Startup/startup_stm32f446retx.o

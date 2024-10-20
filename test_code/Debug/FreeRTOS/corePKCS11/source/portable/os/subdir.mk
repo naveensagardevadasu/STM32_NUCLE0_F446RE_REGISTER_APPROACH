@@ -1,0 +1,27 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (12.3.rel1)
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../FreeRTOS/corePKCS11/source/portable/os/core_pkcs11_pal_utils.c 
+
+OBJS += \
+./FreeRTOS/corePKCS11/source/portable/os/core_pkcs11_pal_utils.o 
+
+C_DEPS += \
+./FreeRTOS/corePKCS11/source/portable/os/core_pkcs11_pal_utils.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+FreeRTOS/corePKCS11/source/portable/os/%.o FreeRTOS/corePKCS11/source/portable/os/%.su FreeRTOS/corePKCS11/source/portable/os/%.cyclo: ../FreeRTOS/corePKCS11/source/portable/os/%.c FreeRTOS/corePKCS11/source/portable/os/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+
+clean: clean-FreeRTOS-2f-corePKCS11-2f-source-2f-portable-2f-os
+
+clean-FreeRTOS-2f-corePKCS11-2f-source-2f-portable-2f-os:
+	-$(RM) ./FreeRTOS/corePKCS11/source/portable/os/core_pkcs11_pal_utils.cyclo ./FreeRTOS/corePKCS11/source/portable/os/core_pkcs11_pal_utils.d ./FreeRTOS/corePKCS11/source/portable/os/core_pkcs11_pal_utils.o ./FreeRTOS/corePKCS11/source/portable/os/core_pkcs11_pal_utils.su
+
+.PHONY: clean-FreeRTOS-2f-corePKCS11-2f-source-2f-portable-2f-os
+

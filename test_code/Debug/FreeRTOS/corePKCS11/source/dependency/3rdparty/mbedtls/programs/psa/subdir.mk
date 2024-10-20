@@ -1,0 +1,36 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (12.3.rel1)
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/crypto_examples.c \
+../FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/key_ladder_demo.c \
+../FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names.c \
+../FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names_generated.c 
+
+OBJS += \
+./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/crypto_examples.o \
+./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/key_ladder_demo.o \
+./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names.o \
+./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names_generated.o 
+
+C_DEPS += \
+./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/crypto_examples.d \
+./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/key_ladder_demo.d \
+./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names.d \
+./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names_generated.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/%.o FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/%.su FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/%.cyclo: ../FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/%.c FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+
+clean: clean-FreeRTOS-2f-corePKCS11-2f-source-2f-dependency-2f-3rdparty-2f-mbedtls-2f-programs-2f-psa
+
+clean-FreeRTOS-2f-corePKCS11-2f-source-2f-dependency-2f-3rdparty-2f-mbedtls-2f-programs-2f-psa:
+	-$(RM) ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/crypto_examples.cyclo ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/crypto_examples.d ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/crypto_examples.o ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/crypto_examples.su ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/key_ladder_demo.cyclo ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/key_ladder_demo.d ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/key_ladder_demo.o ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/key_ladder_demo.su ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names.cyclo ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names.d ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names.o ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names.su ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names_generated.cyclo ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names_generated.d ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names_generated.o ./FreeRTOS/corePKCS11/source/dependency/3rdparty/mbedtls/programs/psa/psa_constant_names_generated.su
+
+.PHONY: clean-FreeRTOS-2f-corePKCS11-2f-source-2f-dependency-2f-3rdparty-2f-mbedtls-2f-programs-2f-psa
+

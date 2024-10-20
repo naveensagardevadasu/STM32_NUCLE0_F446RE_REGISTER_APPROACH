@@ -1,0 +1,17 @@
+21:26:54 **** Incremental Build of configuration Debug for project FREERTOS_TASK_CREATE_DELETE ****
+make -j7 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F4 -DSTM32F446RETx -DNUCLEO_F446RE -c -I../Inc -I"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/FREERTOS_TASK_CREATE_DELETE/FreeRTOS/FreeRTOS-Kernel/include" -I"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/FREERTOS_TASK_CREATE_DELETE/FreeRTOS/FreeRTOS-Kernel/portable/GCC/ARM_CM4F" -I"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/FREERTOS_TASK_CREATE_DELETE/FreeRTOS/FreeRTOS-Kernel/portable/MemMang" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Src/main.o"
+arm-none-eabi-gcc -o "FREERTOS_TASK_CREATE_DELETE.elf" @"objects.list"   -mcpu=cortex-m4 -T"/Users/naveensagar/Desktop/STM32_WORKS/STM32_NUCLE0_F446RE_REGISTER_APPROACH/FREERTOS_TASK_CREATE_DELETE/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="FREERTOS_TASK_CREATE_DELETE.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: FREERTOS_TASK_CREATE_DELETE.elf
+ 
+arm-none-eabi-size  FREERTOS_TASK_CREATE_DELETE.elf 
+arm-none-eabi-objdump -h -S FREERTOS_TASK_CREATE_DELETE.elf  > "FREERTOS_TASK_CREATE_DELETE.list"
+   text	   data	    bss	    dec	    hex	filename
+   4572	      4	  17252	  21828	   5544	FREERTOS_TASK_CREATE_DELETE.elf
+Finished building: default.size.stdout
+ 
+Finished building: FREERTOS_TASK_CREATE_DELETE.list
+ 
+
+21:26:54 Build Finished. 0 errors, 0 warnings. (took 534ms)
+

@@ -89,13 +89,14 @@
 void Timer2_delay(uint32_t);
 
 
+
 void Timer2_delay(uint32_t delay)
 {
-	*TIM2_PSC = 8400-1;
-	*TIM2_ARR = (1000 - 1)*delay;
+	*TIM2_PSC = 16000-1;
+	*TIM2_ARR = (2 - 1)*delay;
 	*TIM2_CNT = 0;
 	*TIM2_CR1 |= (1<<0);
-	while(!(*TIM2_SR & 0x01)) printf("%u\n",(unsigned int)*TIM2_CNT);// printf("%u\n",(unsigned int)*TIM2_CNT);
+	while(!(*TIM2_SR & 0x01));
 	*TIM2_SR = 0x00;
 	*TIM2_CR1 &= ~(1<<0);
 }
@@ -114,7 +115,7 @@ int main(void)
 	for(;;)
 	{
 		*GPIOA_ODR ^= (1<<5);
-		printf("Hello world\n");
-		Timer2_delay(1);
+//		printf("Hello world::\n");
+		Timer2_delay(100);
 	}
 }
